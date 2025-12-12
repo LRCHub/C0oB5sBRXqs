@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "We Remember",
+  "base_artist": "KiRaRe",
+  "createdAt": "2025-12-12T19:29:00.963921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Then We Remember",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/01_Then_We_Remember_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What We Remember",
+      "artist": "Anggun",
+      "has_synced": true,
+      "path": "select/02_What_We_Remember_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What We Remember (Instrumental)",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/03_What_We_Remember_(Instrumental)_Anggun.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What We Remember (Junotrix Radio Edit)",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/04_What_We_Remember_(Junotrix_Radio_Edit)_Anggun.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What We Remember (Love to Infinity Radio Edit)",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/05_What_We_Remember_(Love_to_Infinity_Radio_Edit)_Anggun.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What We Remember (Ralphi Rosario Radio Edit)",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/06_What_We_Remember_(Ralphi_Rosario_Radio_Edit)_Anggun.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What We Remember (Sted-E & Hybrid Heights Radio Edit)",
+      "artist": "Anggun",
+      "has_synced": false,
+      "path": "select/07_What_We_Remember_(Sted-E_&_Hybrid_Heights_Radio_Edit)_Anggun.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Remember You",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": true,
+      "path": "select/08_We_Remember_You_Crippled_Black_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Remember",
+      "artist": "Jeremy Camp",
+      "has_synced": false,
+      "path": "select/09_We_Remember_Jeremy_Camp.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Remember",
+      "artist": "Newsboys",
+      "has_synced": true,
+      "path": "select/10_We_Remember_Newsboys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Remember",
+      "artist": "Steven Curtis Chapman",
+      "has_synced": false,
+      "path": "select/11_We_Remember_Steven_Curtis_Chapman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Remember",
+      "artist": "KiRaRe",
+      "has_synced": false,
+      "path": "select/pl_01_We_Remember_KiRaRe.txt"
+    }
+  ]
+}
